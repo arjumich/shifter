@@ -1,3 +1,11 @@
+22.02.1
+=======
+* Improved CMD support
+* Store labels in mongo
+* Allows pulling by hash
+* Handle some unauthenticated responses better
+* Refactor image worker (no functional changes)
+
 21.03.1
 =======
 * Update from Python 2 to Python 3 in the Gateway
